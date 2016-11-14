@@ -4,8 +4,8 @@ AI based voice interface //fun project, let's see how far we can push this!
 Main interface will be compiled in html
 the rest will be java/js
 
-<br>Tasks to perform:
-<br>Language recognition
+Tasks to perform:
+Language recognition
 Text-to-speech output
 Calculator
 PC controll
