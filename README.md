@@ -6,7 +6,7 @@ the rest will be java/js
 
 Tasks to perform:
 Language recognition
-Text-to-speech output
+Text-to-speech output  
 Calculator
 PC controll
 email management
